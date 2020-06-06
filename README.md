@@ -1,5 +1,5 @@
 # Primes
-'Primes' is a program that prints every prime number up to 100.
+'Primes' is a program that prints every prime number from 1 to 100.
 
 ## Contents.
 Function *primes()*: the only function in the programm, which prints the Prime numbers before 100 as
