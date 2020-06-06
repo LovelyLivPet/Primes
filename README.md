@@ -22,7 +22,7 @@ If Python3 is not alredy installed:
      
  ## Building with an IDE.
  Python3 comes equipt with it's own code editor, IDLE. In order to edit or copy the code,
- open the file labelled *primes* with IDLE, or another compatible text-editor like Atom where the file can be edited but
+ open the file labelled *IdleVersion* with IDLE, or another compatible text-editor like Atom where the file can be edited but
  not run.
  
  ## Bugs.
