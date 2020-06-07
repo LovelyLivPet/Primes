@@ -1,9 +1,12 @@
 # Primes
 'Primes' is a program that prints every prime number from 1 to 100.
 
-## Contents.
+## Contents and Security
 Function *primes()*: the only function in the program, which prints the Prime numbers before 100 as
 a list.
+
+The program was tested by using open source code of the [git-secrets](https://github.com/awslabs/git-secrets.git) repository, to avoid commiting of secrets.
+
 
 ## Requirements.
 Version: Python 3
